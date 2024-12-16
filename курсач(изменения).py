@@ -48,7 +48,7 @@ class Exchange:
 
 class CurrencyExchange:
     """
-        Описывает класс для конвертации валют.
+        Описывает класс для конвертации валют.git commit -m «поместить сообщение»git commit -m «поместить сообщение»
     """
 
     def __init__(self,cur):
